@@ -1,3 +1,9 @@
+gateway.storjshare.io
+link.storjshare.io
+ams1.vultrobjects.com
+ewr1.vultrobjects.com
+sgp1.vultrobjects.com
+sjc1.vultrobjects.com
 mail.cc
 comunedicrosia.it
 rosettahome.top
